@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: " love ma dolly eko 🎉💝💖💝💓",
-        message: "zeyy,lovee ya sm so a date tmrw?",
-        emojis: "🎁💖🤗"  // These will bounce around
+        title: " love ma dolly eko ",
+        message: "zeyy,lovee ya sm so a date tmrw?>😭💙",
+        
     },
 
     // Color scheme for the website
