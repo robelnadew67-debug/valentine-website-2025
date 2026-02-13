@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 10                        // Volume level (0.0 to 1.0)
     }
 };
 
