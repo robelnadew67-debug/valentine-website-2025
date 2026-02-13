@@ -28,7 +28,7 @@ const CONFIG = {
             secretAnswer: "HELL YEA ❤️"           // Secret hover message
         },
         second: {
-            text: "hmm 😭prove how much yo like me",                          // For the love meter
+            text: "hmm 😭in what % would yu wanna be my valentine",                          // For the love meter
             startText: "besmam ",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "ECHELALW 🥰🚀💝",  // Shows when they go past 5000%
         high: "swedeshh 🚀💝",              // Shows when they go past 1000%
         normal: "zeyyy🥰"                           // Shows when they go past 100%
     },
