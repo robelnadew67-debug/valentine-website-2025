@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: " love ma dolly eko 🎉💝💖💝💓",
         message: "zeyy,lovee ya sm so a date tmrw?",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁💖🤗"  // These will bounce around
     },
 
     // Color scheme for the website
