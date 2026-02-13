@@ -22,14 +22,14 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "yu like me over hello kitty?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
+            text: "can i meet yu tmrw😭",                                    // First interaction
+            yesBtn: "",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "HELL YEA ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            text: "hmm 😭prove how much yo like me",                          // For the love meter
+            startText: "besmam ",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
